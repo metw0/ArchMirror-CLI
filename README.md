@@ -1,11 +1,11 @@
 # ArchMirror-CLI 📦
 
-**ArchMirror** is a simple CLI utility for Arch Linux that backs up your installed packages into a `.toml` file and allows you to restore them easily on a new system
+**ArchMirror-CLI** is a simple CLI utility for Arch Linux that backs up your installed packages into a `.toml` file and allows you to restore them easily on a new system
 _(without their configs)_.
 
 ---
 
-## A brief guide to using the ArchMirror utility
+## A brief guide to using the ArchMirror-CLI utility
 
 ### 🛠 Installation
 
