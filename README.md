@@ -36,7 +36,3 @@ To install packages from the saved `.toml` config, you need the restore script:
 *(specify the path to your .toml manifest, e.g., `data/manifest_date.toml`)*
 
 ---
-
-#### Support ☕
-
-If you really like the utility, or just want to support the author, you can send me a couple of dollars in cryptocurrency _(link on my GitHub page)_.
